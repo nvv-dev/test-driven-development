@@ -1,0 +1,16 @@
+{
+  "name": "test-driven-development",
+  "version": "0.1.0",
+  "description": "Drives work as red-green-refactor cycles at the module's public boundary, and forbids weakening tests to get green.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/test-driven-development",
+  "repository": "https://github.com/nvv-dev/test-driven-development",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
